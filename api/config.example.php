@@ -9,6 +9,6 @@ return [
         'charset' => 'utf8mb4',
         'timezone' => '+08:00',
     ],
-    'allowed_origins' => ['http://localhost', 'http://localhost:5173', 'http://127.0.0.1:5173'],
+    'allowed_origins' => ['http://localhost', 'http://localhost:5173', 'http://127.0.0.1:5173', 'https://ssu-library.vercel.app'],
     'session_secure' => false,
 ];
