@@ -10,5 +10,5 @@ return [
         'timezone' => '+08:00',
     ],
     'allowed_origins' => ['http://localhost', 'http://localhost:5173', 'http://127.0.0.1:5173'],
-    'session_secure' => false,
+    'session_secure' => true,
 ];
